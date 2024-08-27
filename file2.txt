@@ -2,3 +2,4 @@ the second demo file
 and it has more than 1 line
 
 awesome
+hello
